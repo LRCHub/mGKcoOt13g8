@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いとしすぎて（feat. Tiara）",
+  "base_artist": "KG",
+  "createdAt": "2026-02-19T12:45:16.059054Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いとしすぎて duet with Tiara",
+      "artist": "KG",
+      "has_synced": false,
+      "path": "select/pl_01_いとしすぎて_duet_with_Tiara_KG.txt"
+    }
+  ]
+}
